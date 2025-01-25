@@ -15,7 +15,7 @@ This repository contains my journey of solving DSA problems daily for 30 days. E
 | Day 5  | ✅ 3            | [Solutions](./DAY5)  |
 | Day 6  | ✅ 3            | [Solutions](./Day6)  |
 | Day 7  | ✅ 3            | [Solutions](./Day7)  |
-| Day 8  | 🔲 3            | [Solutions](./Day8)  |
+| Day 8  | ✅ 3            | [Solutions](./Day8)  |
 | Day 9  | 🔲 3            | [Solutions](./Day9)  |
 | Day 10 | 🔲 3            | [Solutions](./Day10) |
 | Day 11 | 🔲 3            | [Solutions](./Day11) |
