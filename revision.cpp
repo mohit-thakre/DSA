@@ -168,8 +168,86 @@ void naturalsum(int n,int i,int sum){
 
 }
 
+int factorial(int n,int sum){
+
+    while (n>0)
+    {
+        sum *= n;
+         n--;
+    }
+   
+
+  return sum;
+    
+    
+
+
+}
+int factorial1(int n,int sum){
+
+if(n>0){
+    sum*=n;
+    n--;
+    return factorial1(n,sum);
+}
+
+return sum;
+
+
+
+
+}
+
+int reverse(int arr[],int n){
+
+
+int  p = 0;
+int q = n-1;
+
+  while(p<q){
+
+    swap(arr[p],arr[q]);
+    p++;
+    q--;
+  }
+
+for(int i = 0; i<n;i++){
+    cout<<arr[i];
+}
+
+
+
+
+
+
+
+    
+
+
+}
+
+bool palindromestring(string str,int n){
+    
+    bool palindrome = true;
+
+    int p = 0;
+    int q = n-1;
+    while (p<q)
+    {
+        if(str[p]!=str[q]){
+
+            return  false;
+
+        }
+        p++;
+        q--;
+    }
+    return palindrome;
+    
+}
 int main(){
 
-naturalsum(5,1,0);
+int arr[5] = {1,2,3,4,5};
+cout<<palindromestring("ababab",6);
     
 }
