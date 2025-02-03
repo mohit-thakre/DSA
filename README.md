@@ -27,17 +27,17 @@ This repository contains my journey of solving DSA problems daily for 30 days. E
 | Day 17 | ✅ 3            | [Solutions](./DAY17) |
 | Day 18 | ✅ 3            | [Solutions](./DAY18) |
 | Day 19 | ✅ 3            | [Solutions](./DAY19) |
-| Day 20 | 🔲 3            | [Solutions](./Day20) |
-| Day 21 | 🔲 3            | [Solutions](./Day21) |
-| Day 22 | 🔲 3            | [Solutions](./Day22) |
-| Day 23 | 🔲 3            | [Solutions](./Day23) |
-| Day 24 | 🔲 3            | [Solutions](./Day24) |
-| Day 25 | 🔲 3            | [Solutions](./Day25) |
-| Day 26 | 🔲 3            | [Solutions](./Day26) |
-| Day 27 | 🔲 3            | [Solutions](./Day27) |
-| Day 28 | 🔲 3            | [Solutions](./Day28) |
-| Day 29 | 🔲 3            | [Solutions](./Day29) |
-| Day 30 | 🔲 3            | [Solutions](./Day30) |
+| Day 20 | ✅ 3            | [Solutions](./DAY20) |
+| Day 21 | 🔲 3            | [Solutions](./DAY21) |
+| Day 22 | 🔲 3            | [Solutions](./DAY22) |
+| Day 23 | 🔲 3            | [Solutions](./DAY23) |
+| Day 24 | 🔲 3            | [Solutions](./DAY24) |
+| Day 25 | 🔲 3            | [Solutions](./DAY25) |
+| Day 26 | 🔲 3            | [Solutions](./DAY26) |
+| Day 27 | 🔲 3            | [Solutions](./DAY27) |
+| Day 28 | 🔲 3            | [Solutions](./DAY28) |
+| Day 29 | 🔲 3            | [Solutions](./DAY29) |
+| Day 30 | 🔲 3            | [Solutions](./DAY30) |
 
 ---
 
