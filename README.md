@@ -54,7 +54,7 @@ This repository contains my journey of solving DSA problems daily for 30 days. E
 | Day 44 | ✅ 1            | [Solutions](./DAY44) |
 | Day 45 | ✅ 3            | [Solutions](./DAY45) |
 | Day 46 | ✅ 3            | [Solutions](./DAY46) |
-| Day 47 | ⬜ 3            | [Solutions](./DAY47) |
+| Day 47 | ✅ 3            | [Solutions](./DAY47) |
 | Day 48 | ⬜ 3            | [Solutions](./DAY48) |
 | Day 49 | ⬜ 3            | [Solutions](./DAY49) |
 | Day 50 | ⬜ 3            | [Solutions](./DAY50) |
