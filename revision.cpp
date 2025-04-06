@@ -391,11 +391,28 @@ int rightrotate(int arr[], int n)
     }
 }
 
+void reveres(int arr[], int i, int j)
+{
 
+    while (i < j)
+    {
+        swap(arr[i], arr[j]);
+        i++;
+        j--;
+    }
+}
+
+void rotate(int arr[], int d, int n)
+{
+
+    reveres(arr, 0, n - 1);
+    reveres(arr, 0, n - d - 1);
+    reveres(arr, n - d, n - 1);
+}
 
 int main()
 {
 
     int arr[5] = {1, 2, 3, 4, 5};
-    rightrotate(arr, 5);
+    rotate(arr, 2, 5);
 }
