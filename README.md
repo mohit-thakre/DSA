@@ -60,7 +60,7 @@ This repository contains my journey of solving DSA problems daily for 30 days. E
 | Day 50 | ✅ 3            | [Solutions](./DAY50) |
 | Day 51 | ✅ 3            | [Solutions](./DAY51) |
 | Day 52 | ✅ 3            | [Solutions](./DAY52) |
-| Day 53 | ⬜ 3            | [Solutions](./DAY53) |
+| Day 53 | ✅ 3            | [Solutions](./DAY53) |
 | Day 54 | ⬜ 3            | [Solutions](./DAY54) |
 | Day 55 | ⬜ 3            | [Solutions](./DAY55) |
 | Day 56 | ⬜ 3            | [Solutions](./DAY56) |
